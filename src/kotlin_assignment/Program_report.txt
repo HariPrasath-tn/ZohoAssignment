@@ -1,0 +1,7 @@
+Completed Programs:
+1. generate multiplication and subtraction table
+2. generate the alphabetic series from the given letter till 'Z'
+3. difference between the given number and its reverse
+
+5. Print the alphabetic pattern in revers from the given letter till 'A'
+6. split students into groups
