@@ -6,6 +6,6 @@ public class GetTimesOfGivenNumber {
         return limit!=1 ? getResult(num.add(num), limit-1) : num;
     }
     public static void main(String[] args) {
-        out.println(getResult(BigInteger.valueOf(new GetUserInput().getNumber("Enter the number : ")),  new  GetUserInput().getNumber("Enter the limit : ")));
+        out.println(getResult(BigInteger.valueOf(GetUserInput.getNumber("Enter the number : ")),  GetUserInput.getNumber("Enter the limit : ")));
     }
 }

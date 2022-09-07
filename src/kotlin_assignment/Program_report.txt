@@ -7,3 +7,4 @@ Completed Programs:
 6. split students into groups
 7. Program to print the number in the x pattern
 
+9. Program to merge two array into one without duplicate element
