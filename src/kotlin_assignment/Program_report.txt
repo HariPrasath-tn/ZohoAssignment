@@ -5,3 +5,5 @@ Completed Programs:
 
 5. Print the alphabetic pattern in revers from the given letter till 'A'
 6. split students into groups
+7. Program to print the number in the x pattern
+
