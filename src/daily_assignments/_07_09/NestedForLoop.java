@@ -7,7 +7,7 @@ import static java.lang.System.out;
  */
 public class NestedForLoop {
     public static void main(String[] args) {
-        int column=0, limit = 9; //GetUserInput.getNumber("Enter the row limit : ");
+        int column=0, limit = 7; //GetUserInput.getNumber("Enter the row limit : ");
 
         out.println("");
         for(int row=0; row<limit; row++){
@@ -21,7 +21,7 @@ public class NestedForLoop {
             }
             out.print("  ");  column = 0;
 
-            // loop to print my first letter half 'A'
+            // loop to print second letter half 'A'
             while(column < limit){
                 if (column == limit-row || (row == limit/2 && column > row))
                     out.print("#");
@@ -52,7 +52,7 @@ public class NestedForLoop {
             }while(column < limit-1);
             out.print("   ");  column = 0;
 
-            // loop to print my first letter 'R'
+            // loop to print my first letter 'I'
             do{
                 if (row == 0 || row == limit-1 || column==limit/2)
                     out.print("#");

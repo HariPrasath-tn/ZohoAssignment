@@ -1,3 +1,7 @@
 //  06/09/2022
-    1) Three assignment programs
-    2) first 7 assignment programs of 60 in kotlin
+    1) Three assignment programs                         /daily_assignments/_06_09/
+    2) First 7 assignment programs of 60 in kotlin       /kotlin_assignment/_01To10/
+
+// 07/09/2022
+    1) Four assignments programs                         /daily_assignments/_07_09/
+    2)
